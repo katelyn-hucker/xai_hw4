@@ -18,6 +18,8 @@ I explored the following relationships and distributions for this dataset:
 #### One of the more interesting plots was average price for each genre: 
 ![image](https://github.com/user-attachments/assets/3a505388-08ce-4465-a170-237facda60d3)
 
+We see there is some relationship for average price of a game depending on genre. Therefore, a specific genre may be priced at higher rates for video game players.
+
 ### Modeling 
 
 I used a RandomForestRegressor model to predict pricing. This would enable companies to decide what to appropiately price their games at upon release. 
